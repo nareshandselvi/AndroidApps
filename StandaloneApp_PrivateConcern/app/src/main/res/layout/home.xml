@@ -1,0 +1,162 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent" >
+
+<RelativeLayout
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.windows_home.nature.MainActivity23Activity">
+
+    <TableLayout
+
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:stretchColumns="1" >
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="ABOUT NATURE CLINIC"
+                android:textStyle="bold|italic"
+                android:textColor="#FFFF0000"
+                android:textSize="15sp"
+                android:lines="1"
+                />
+        </TableRow>
+
+        <TableRow>
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/logo"
+                android:layout_margin="10dp"
+                android:cropToPadding="false" />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/abouthomeo"
+
+                />
+        </TableRow>
+        <TableRow>
+            <ImageView
+                android:id="@+id/imageView34"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/drjs"
+                android:layout_margin="10dp"
+                android:cropToPadding="false" />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/home_body"
+                android:lines="13"
+                />
+        </TableRow>
+        <TableRow>
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/abthomeo1"
+                android:layout_margin="-25dp"
+                android:cropToPadding="false"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/home_body1"
+                android:lines="10"
+                />
+        </TableRow>
+
+
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/home_body2"
+                android:lines="13"
+                />
+        </TableRow>
+        <TableRow>
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/testimonial"
+                android:layout_margin="10dp"
+                android:cropToPadding="false" />
+        </TableRow>
+
+        <TableRow>
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/letter"
+                android:layout_margin="10dp"
+                android:cropToPadding="false" />
+        </TableRow>
+
+
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/testi"
+                />
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:id="@+id/name2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textIsSelectable="true"
+                android:padding="3dip"
+                android:text="@string/testisign"
+                android:layout_margin="7dp"
+                android:textStyle="bold|italic"/>
+
+
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/testi1"
+                />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/name4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textIsSelectable="true"
+                android:padding="3dip"
+                android:text="@string/testisign1"
+                android:layout_margin="7dp"
+                android:textStyle="bold|italic"/>
+
+
+        </TableRow>
+        <TableRow>
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/hhh1"
+                android:layout_margin="10dp"
+                android:cropToPadding="false" />
+        </TableRow>
+
+    </TableLayout>
+</RelativeLayout>
+</ScrollView>

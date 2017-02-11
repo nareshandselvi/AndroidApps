@@ -1,0 +1,292 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.windows_home.nature.MainActivity22Activity">
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:stretchColumns="1" >
+    <TableRow>
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="STRESS BUSTER TREATMENT"
+            android:gravity="center"
+            android:textStyle="bold|italic"
+            android:textColor="#FFFF0000"
+            android:textSize="15sp"
+            android:lines="1"
+            />
+    </TableRow>
+        <TableRow>
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/corp"
+                android:layout_margin="-25dp"
+                android:cropToPadding="false" />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corpcontent"
+                android:lines="11"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corpcontent1"
+                android:lines="7"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corpcontent2"
+                android:textStyle="normal"
+                android:lines="3"/>
+
+        </TableRow>
+
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corphead1"
+                android:textStyle="bold|italic"
+                android:textColor="#FF008000"
+                android:textSize="15sp"
+                android:lines="2"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corpcontent3"
+                android:lines="11"/>
+
+        </TableRow>
+
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist1"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist2"
+                />
+        </TableRow>
+
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist3"
+                android:lines="4"/>
+                />
+        </TableRow>
+
+        <TableRow>
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/corp1"
+                android:layout_margin="10dp"
+                android:cropToPadding="false" />
+        </TableRow>
+
+    <TableRow>
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/corphead2"
+            android:textStyle="bold|italic"
+            android:textColor="#FF008000"
+            android:textSize="15sp"
+            android:lines="2"
+            />
+    </TableRow>
+    <TableRow>
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/corpcontent4"
+            android:lines="3"/>
+            />
+    </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corphead3"
+                android:textStyle="bold|italic"
+                android:textColor="#FF008000"
+                android:textSize="15sp"
+                android:lines="2"
+                />
+
+        </TableRow>
+
+        <TableRow>
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/corplist4"
+            />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist5"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist6"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist7"
+                android:lines="3"/>
+                />
+        </TableRow>
+
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corpcontent5"
+                android:lines="10"/>
+                />
+        </TableRow>
+
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corpcontent6"
+                android:lines="7"/>
+                />
+        </TableRow>
+
+        <TableRow>
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/s1"
+                android:layout_margin="-25dp"
+                android:cropToPadding="false" />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corphead4"
+                android:textStyle="bold|italic"
+                android:textColor="#FF008000"
+                android:textSize="15sp"
+                android:lines="2"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist8"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist9"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist10"
+                />
+          </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist11"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist12"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist13"
+                android:lines="2"/>
+                />
+        </TableRow>
+
+
+
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corphead5"
+                android:textStyle="bold|italic"
+                android:textColor="#FF008000"
+                android:textSize="15sp"
+                android:lines="2"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist14"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist15"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist16"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist17"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist18"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corplist13"
+                />
+        </TableRow>
+
+
+
+
+
+    </TableLayout>
+</RelativeLayout>
+</ScrollView>

@@ -1,0 +1,306 @@
+<resources>
+    <string name="app_name">Nature</string>
+    <string name="image">Image thumbnail</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="home_body">It\'s a pleasure nareshandselvi@gmail.com to welcome you to a world where Wellness is for everyone. No matter which state or stage of life you are in - right from ‘pre-conception’ to old age – you can always begin to be \‘well\’. Leveraging on the rich experience that he has gained over the years, Dr. Jayesh V Sanghvi MD (Hom) and his team now offer you a series of signature treatments under the label "Effortless Wellness". The uniqueness of the program is its simplicity and effectiveness with hardly any effort from your end. The result is highly profound and leaves a long lasting impression in your life.
+</string>
+
+    <string name="home_body1">This program not only treats your body but even the revitalizes your mind to embark upon a journey towards a better life; a life with rejuvenated health and vitality, free from diseases and ailments only with Homeopathy. It seeks to enhance the light and life force in each individual. Cultivating dignity and a sense of compassion, it restores a peaceful heart and a vivid sense of purpose.</string>
+
+    <string name="home_body2">The uniqueness of the program is its simplicity and effectiveness with hardly any effort from your end. The result is highly profound and leaves a long lasting impression in your life.
+This program not only treats your body but even the revitalizes your mind to embark upon a journey towards a better life; a life with rejuvenated health and vitality, free from diseases and ailments only with Homeopathy. It seeks to enhance the light and life force in each individual. Cultivating dignity and a sense of compassion, it restores a peaceful heart and a vivid sense of purpose.</string>
+
+    <string name="abouthomeo">Based on age-old well-proven laws of nature - Homeopathy is a scientifically based system of approaching health, disease prevention and Wellness at the level of mind, body and soul.It has always been known for its ability to treat both acute and chronic conditions. At Dr. Jayesh V. Sanghvi\'s NATURE CLINIC, we have taken this one step forward and we say that, Homeopathy has the capacity to encourage the body\'s innate ability to heal itself. It seeks to enhance the light and life force in each individual. Cultivating dignity and a sense of compassion, Homeopathy restores not only our health but our wellness which includes a peaceful heart and a vivid sense of purpose.</string>
+
+    <string name="History">History</string>
+
+    <string name="testi">Hi Dr. Sanghvi! Do you remember me? I had taken MET (Memory Enhancement Therapy) from you for 2 years (Class 9 and 10). I must say your treatment has definitely done wonders for m... </string>
+
+    <string name="testisign"> - Sonali Sharma, MET helped me!</string>
+
+    <string name="testi1">RESPECTED SIR, Hello Dr.Jayesh Bhai Sanghvi. My son , Gaurav T Virani who has undergone the treatment for Memory Enhancement with Homeopathic Medicine for a couple of months ..." </string>
+
+    <string name="testisign1"> - Tushar Virani a Happy Father</string>
+
+
+    <string name="history1">Based on age-old well-proven laws of nature - Homeopathy is a scientifically based system of approaching health, disease prevention and Wellness at the level of mind, body and soul. It is non-invasive, non-violent system, non – habit forming, safe, gentle and effortless and goes well with all other medicinal and non-medicinal therapies. Contrary to the popular belief it is quick to relieve and quick to cure, from acute conditions to critical emergencies.</string>
+
+    <string name="history2">The term \'homeopathy\' comes from the Greek \'homeo\' meaning \'like\', or \'similar\', and \'pathos\' meaning \'suffering\' or \'disease\’. It’s based on the age old law of nature - Similia Similibus Curentur (i.e. Like Cures Like) which was first mentioned by Hippocrates, the Father of Medicine, in 5th century B.C. and later on by peers like Paracelsus, Aristotle, etc. and also in the Hindu texts. It was also utilized by many cultures, including the Chinese, Greeks, Native American Indians and Asian Indians.</string>
+
+    <string name="history3">It was Dr. Samuel Hahnemann (1755 – 1843) - a German Physician who gave up his successful practice because he believed that the medicine of his time did much more harm than good. He studied and experimented in depth, to codify this law into a full-fledged, scientific system of medicine which is "rapid, gentle and permanent restoration of health...in the shortest, most reliable, and most harmless way".</string>
+    <string name="title_activity_main_activity2">Memory</string>
+
+    <string name="memoryHead">Boosts Brain – Power and Academic Performance</string>
+
+
+
+
+
+<string name="memorycontent">Friends, the beauty of the Effortless - Homeopathic Memory Enhancement Therapy offered at Dr. Jayesh V. Sanghvi\'s Nature Clinic is that, it has been specially nurtured and designed to help you, the school and college students, study and remember much better.
+
+This programme is helpful to all students, of any age. Greater importance remains for those of appearing for the Boards, University of Competitive Exams, as for them "Every Extra mark scored Counts".</string>
+
+<string name="memorycontent1">After years of clinical work and research, our specially developed approach to Homeopathic meditation for memory; works as subtle as meditation, in a very natural, simple, easy yet effective way, to enhance your mental powers. Everybody can practice this programme easily as all it requires to take a dose or two of sweet Homeopathic pills every day, making it a much simpler process as compared to other memory techniques".</string>
+
+<string name="memoryhead1">The Program</string>
+
+
+
+
+<string name="memorylis">Basically it consists of a very - specialized form of Homeopathic meditation that helps you in any or all of the following ways:</string>
+
+<string name="memorylist"><ul> <li><i>Improves memory the retaining and recalling capacity.</i></li></ul>
+</string>
+
+<string name="memorylist1"><ul> <li><i>Increases concentration span, helping remember faster.</i></li></ul>
+</string>
+
+<string name="memorylist2"><ul> <li><i>develops interest in subjects disliked earlier..</i></li></ul>
+</string>
+
+<string name="memorylist3"><ul> <li><i>Reduces brain fag, helping study longer hours..</i></li></ul>
+</string>
+
+<string name="memorylist4"><ul> <li><i>Helps overcome exam-time anxieties, fears or nervousness.</i></li></ul>
+</string>
+
+
+
+
+    <string name="memoryhead2">Optional Procedures</string>
+
+
+    <string name="memorycontent3">On The Exam Day, a Special Procedure - Boosts mental and physical energy levels, reduces fears and nervousness, helps easier memory recall; and ultimately helps perform better.
+    The Meditation Technique - Consists of self-relaxation, auto visualization and autosuggestions, highly simplified for easy practice, formatted help to awaken the dormant positive powers of the human mind.</string>
+
+
+    <string name="memoryhead3">The History</string>
+
+
+    <string name="memorycontent4">Dr. Sanghvi developed the basic concept during his medical college days in the late 1970\'s out of sheer adventurism and enthusiasm, beginning with self-experimentation. Encouraged by the results, and further so his coming across a book by a 19th century French Homeopath who treated human nature; he clinically worked on it for the next ten years, fine turning and simplifying the medication and procedure, which has now been bringing highly positive results.</string>
+
+    <string name="memoryhead4">The Treatment</string>
+
+
+    <string name="memorycontent5">1 to 3 years for better results, depending on the child\'s response. Preferably for 2 years before Board-exam\'s.
+    Minor improvement in the memory, concentration etc., sets in within 6-months of the course.
+    Treatment commenced even a few months or weeks before the exams, will benefit someway or the other, reducing fears, nervousness etc.
+    With the strength and power of this programme, you can expect a better academic performance that could change your very life and future for the best. At Dr.JVS\'s Nature Clinic we care for both your improvement and achievement.GOOD LUCK.</string>
+
+    <string name="memoryhead5">Testimonials</string>
+
+
+    <string name="memorycontent6">I brought my daughter for her memory treatment when she was in Std. IX. She usually failed in 1-2 subjects and others she would just scrape through. I\'m extremely glad to say that in her Std. X, board exams, she passed in first try and with 66% marks. In Std. XII, she passed with 74%. Then I put my son under the same course. He always scored about 50-55% and now in Std. X he passed with 85% marks.. No words are enough to than Dr. Sanghvi for changing the very lives of my children. God bless him and may he brighten the future of many more children.</string>
+
+    <string name="memorycontents">Mrs. K.K.</string>
+
+
+    <string name="memorycontent7">Passed my final yr college exams in the first try. This is the first time I\'ve ever passed in one attempt!! Thanks a ton, Doc for those magic pills.</string>
+
+    <string name="memorycontents1">Mrs. K.K.</string>
+
+    <string name="title_activity_main_activity22">Stress</string>
+
+
+
+
+    <string name="corpcontent">While the past one century has been a boon to mankind, taking us to an era, with gigantic strides in science, technology and unimaginable modernization; its complexities has brought with it a multitude of \‘life style disorders\’ and other disease conditions that has forced the medical and science fraternity to take a second look to help man-kind out of this predicament that’s effecting their – mind, body and soul. The answer has come in the form of \‘Wellness\’.</string>
+
+
+    <string name="corpcontent1">Through his 28 years of experience, hard work and clinical research- Dr. Jayesh V. Sanghvi MD (Hom) – Director, Dr. Sanghvi\’s NATURE CLINIC, offers a series of signature treatments under the label - “Effortless Wellness” prime being the “Effortless - Stress Buster Treatment” for Corporates
+    </string>
+
+
+    <string name="corpcontent2">Our Stress Buster packages are valuable to companies for several reasons:
+</string>
+
+
+    <string name="corphead1">Helps Mental and Emotional De-Stress:
+    </string>
+
+    <string name="corpcontent3">Latest scientific research now claims that virtually all illnesses – from Cold to Cancer are psychosomatic in origin. Brief periods of stress can often be tolerated by the body and mind. However, prolonged and persistent stress over months and years, take its toll on the body and mind, if left unaddressed. Poor decision-making, confused thinking, poor memory are inevitable if the stress is not intelligently addressed. Plus, the body ages very rapidly under long periods of excessive stress.
+</string>
+
+    <string name="corplist1"><ul> <li><i>Majorly reduces stress levels nd relieves all kinds of negativity like – anger, worry anxiety, frustration, grief, that would otherwise have a detrimental impact on the body.</i></li></ul>
+</string>
+
+    <string name="corplist2"><ul> <li><i>Brings in a state of harmony at the mental, emotional and psycho-spiritual levels.</i></li></ul>
+</string>
+
+    <string name="corplist3"><ul> <li><i>Improves mental clarity, concentration, cognitive thinking, creative problem solving, and memory… all to the company’s benefit.</i></li></ul>
+</string>
+
+    <string name="corphead2">Easy – Effortless Applicability
+    </string>
+
+    <string name="corpcontent4">The only effort required by one is just to take 3 pills once a day and a Sp. dose once in 15\'days.
+</string>
+    <string name="corphead3">It is Safe...
+    </string>
+
+ <string name="corplist4"><ul> <li><i>No side-effects</i></li></ul>
+</string>
+
+<string name="corplist5"><ul> <li><i>No reaction - can safely be taken with any system of medicine</i></li></ul>
+</string>
+    <string name="corplist6"><ul> <li><i>No over-dose or under-dose...</i></li></ul>
+</string>
+
+    <string name="corplist7"><ul> <li><i>It is Natural, Free of any harmful ingredients, Non-toxic n Non-habit forming</i></li></ul>
+</string>
+
+    <string name="corpcontent5">This Wellness program is one of the most powerful and effective systems devised by Dr. Sanghvi targeting the three important facets of any individual - mind, body and soul. Centered on Homeopathy, which is the only stem of medicine, which has the ability to go into the inner workings of every cell in the body and alter and remove the hindering memories of past abuse and trauma, which stops one from leading a peaceful life.
+</string>
+
+    <string name="corpcontent6">And only through the deep inner healing of the emotions stored deep in the psyche, after undergoing some form of a negative event, one can even begin to restore the vital force that keeps the vitality moving in our bodies and so brings us closer to Holistic Wellness.
+</string>
+
+    <string name="corphead4">Individual Benefits:</string>
+    <string name="corplist8"><ul> <li><i>Ability to stay alert and manage time</i></li></ul></string>
+    <string name="corplist9"><ul> <li><i>Enhanced quality of life</i></li></ul></string>
+    <string name="corplist10"><ul> <li><i>Relieve oneself from stress</i></li></ul></string>
+    <string name="corplist11"><ul> <li><i>Empowered to lead a life of desire</i></li></ul></string>
+    <string name="corplist12"><ul> <li><i>Healthier life devoid of sickness</i></li></ul></string>
+    <string name="corplist13"><ul> <li><i>Increases productivity levels</i></li></ul></string>
+
+
+
+    <string name="corphead5">Organization Benefits:</string>
+    <string name="corplist14"><ul> <li><i>Increased productivity</i></li></ul></string>
+    <string name="corplist15"><ul> <li><i>Enhanced quality of life</i></li></ul></string>
+    <string name="corplist16"><ul> <li><i>Reduced employee absenteeism</i></li></ul></string>
+    <string name="corplist17"><ul> <li><i>Improved organizational image</i></li></ul></string>
+    <string name="corplist18"><ul> <li><i>Fewer debilitating accidents</i></li></ul></string>
+    <string name="title_activity_main_activity23">Fertility</string>
+
+
+
+
+
+
+
+
+
+    <string name="fertcontent">Life is nothing but all about growing your family. It\'s about all the people you\'re attached to emotionally, physically and spiritually. To most of us, family means the love and joy of children. Dreaming of that future joy in your life- your baby, the sound of his laughter, the color of her eyes, those rainbows of emotions on its face... And then the pain of coming to realize that the best of efforts have failed to manifest this dream into reality, you go through heartache of trying to accept infertility as a fact. Hold on, do you really think you should give up..?
+</string>
+
+
+    <string name="fertcontent1">Well, but not really so! We at Dr. Jayesh V.Sanghvi\'s Nature Clinic strongly believe that it\'s definitely not the end of all hope. Rather, we take over just when the best of infertility specialists, and various systems of medicines, the world over give up. Your patience, desire and courage to find the right solution, coupled by our hard and sincere efforts through Homeopathy [and other natural complementary therapies], could result in the ultimate BLESSING...
+</string>
+
+    <string name="fertcontent2">The Nature Clinic, housed in world-class ambience, is an epitome of warmth and care, and home to a team of highly experienced fertility care professionals who are passionate about making your dream come true.
+</string>
+
+
+    <string name="ferthead">Our Unique Approach</string>
+
+
+    <string name="fertcontent3">When we say we have an edge over the other treatments for infertility, we are talking about the difference we boast of in our approach, which is based on Dr. Sanghvi\'s rich experience of more than two decades of treating and curing infertility through Homeopathy, coupled with his understanding of the use of non-invasive complementary therapies like Pranic Healing and Pranayam [yoga], where necessary, to bring about an unmatched cure.
+    </string>
+
+    <string name="fertcontent4">Irrespective of whether yours is a case of - chronic infertility, obstructive pathology, of unknown cause or failure from other systems of medicine; our unique approach often comes in as a gentle savior, working subtle miracles by helping fulfillment of your long cherished dream of conceiving and parenting a child.
+    </string>
+
+
+    <string name="ferthead1">About Our Treatment</string>
+
+
+    <string name="fertcontent5">Taking care of both you and your partners comfort levels, our specialized team of doctors at the Nature Clinic will do a thorough, analysis, evaluation and study of - your physical and emotional constitutions, your past history and family history of illnesses and your medical investigation records. This helps them ascertain the appropriate Homeopathic medication and the line of treatment to be adopted [incorporating Pranayam or Pranic Healing where necessary].
+    </string>
+
+    <string name="fertcontent6">TTreatment is always given to both the partners simultaneously, irrespective of whether the problem lies with one or both of them, so as to help produce better quality sperms or ovum, leading to a healthier fertilization and conceivement.
+    </string>
+
+
+    <string name="ferthead2">The Duration</string>
+
+    <string name="fertcontent7"> Irrespective of how many years old the fertility is, to achieve results, the treatment of both the partners\' ranges within 18 months, depending on the nature and intensity of the problem.
+    </string>
+
+    <string name="ferthead3">The Special Advantages</string>
+    <string name="fertlist1"><ul> <li><i>Based on the age old laws of nature, the treatment thus given works to correct your body\'s constitutional imbalance, bringing it to a state of harmony, thereby paving the way for a totally natural conceivement.</i></li></ul></string>
+    <string name="fertlist2"><ul> <li><i>A child hence born undoubtedly has a greater chance of being healthier and brighter as compared to the one conceived after heavy drug therapy or other medical procedures.
+There is no fear of multi-foetal pregnancy and its resultant risk to the mother or foetus.</i></li></ul></string>
+    <string name="fertlist3"><ul> <li><i>The time taken to conceive through the Nature Clinic\'s approach is generally much shorter compared to that of the conventional treatment.</i></li></ul></string>
+    <string name="fertlist4"><ul> <li><i>Most of all, our treatment is absolutely safe and natural with no negative impact on the mother or foetus.</i></li></ul></string>
+    <string name="fertlist5"><ul> <li><i>It\'s also the most gentle, pleasant, pain free, non-invasive, non-violent and non-habit forming- school of medicine that basically helps the body correct its own imbalances.</i></li></ul></string>
+    <string name="fertlist6"><ul> <li><i>There is no fear of multi-foetal pregnancy and its resultant risk to the mother or foetus.</i></li></ul></string>
+
+    <string name="ferthead4">In Conclusion</string>
+    <string name="fertcontent8">Please remember, when nature gives you a problem, nature within itself has also given you the answer to that problem. All you need to do is look a little beyond with faith, hope and a sincere desire, and you will find the way...That precisely, we suppose seems to be the reason of why you are here today at Dr.JVS\'s Nature Clinic. Hence forth, transforming to reality, your deepest desires of parenting a child, becomes a passion for our dedicated team of doctors.
+</string>
+
+    <string name="fertcontent9">Treatment with us is given a total new meaning by encompassing medication in an atmosphere of warmth and care. Never before has an experience of getting healed, been so soothing and comforting. We work our best to ensure a complete cure by going to the genesis and root of the problem. We sincerely believe and incorporate the very principle laid down by the German, father -founder of Homeopathy, Dr. Samuel Hahnemann the highest ideal of a cure is rapid, gentle and permanent restoration of health...in the shortest, most reliable and most harmless way, on easily comprehensible principles.
+</string>
+
+
+    <string name="ferthead5">What You Should Know About Infertility</string>
+    <string name="fertlist7"><ul> <li><i>Infertility is a disease or condition of the reproductive system that impairs one of the body\'s most basic functions: the conception of children, often diagnosed after a couple has one year of unprotected, well-timed intercourse or if the women suffers from multiple miscarriages. It can be male or female related.</i></li></ul></string>
+    <string name="fertlist8"><ul> <li><i>Infertility affects approximately 10% of the world\'s population affecting people from all socioeconomic levels, cutting across racial, ethnic and religious lines.</i></li></ul></string>
+    <string name="fertlist9"><ul> <li><i>Approx. 35 percentage of infertility\'s due to female factor, 20 percentage due to problems in both parents and 10% from unexplained causes.</i></li></ul></string>
+
+    <string name="fertlist10"><ul> <li><i>Female factors ovulation disorders, endometriosis, tubal disease, fibroids, polyps, polycystic ovaries, sterilization, retroverted uterus, etc.</i></li></ul></string>
+    <string name="fertlist11"><ul> <li><i>Male factors absence of sperms azoospermia, low sperm count oligospermia, malformed or poor quality sperms, impotence endocrine disorders etc.</i></li></ul></string>
+    <string name="fertlist12"><ul> <li><i>Common male and  female factors: late planning advanced age, excessive alcohol, smoking or drug intake, mistimed intercourse etc.</i></li></ul></string>
+
+
+    <string name="ferthead6">Ultimately The Process of Conception Depends Upon</string>
+    <string name="fertlist13"><ul> <li><i>The production of healthy sperm by the man and healthy eggs by the woman.</i></li></ul></string>
+    <string name="fertlist14"><ul> <li><i>Unblocked fallopian tubes that allow the sperm to reach the egg.</i></li></ul></string>
+    <string name="fertlist15"><ul> <li><i>The sperm\'s ability to reach the egg.</i></li></ul></string>
+    <string name="fertlist16"><ul> <li><i>The sperm\'s ability to fertilize the egg when they meet.</i></li></ul></string>
+    <string name="fertlist17"><ul> <li><i>The ability of the fertilized egg (embryo) to become implanted in the woman\'s uterus.</i></li></ul></string>
+    <string name="fertlist18"><ul> <li><i>A good quality embryo.</i></li></ul></string>
+    <string name="title_activity_main_activity24">Repository</string>
+
+
+
+    <string name="respcontent">Homeopathy, for the most important love in our lives our children, with their wellbeing as our ultimate priority, we at Dr. Jayesh V. Sanghvi\'s Nature Clinic understand and share your deep concern for their suffering.</string>
+    <string name="respcontent1">Our compassion and care for them reflects in the gentlest form of treatment we impart, which un-failingly brings a smile and cheer on their innocent faces. While relieving them of the mental and physical trauma of visiting a doctor’s clinic, we turn their visit into a most pleasant, cherished and happy experience.</string>
+    <string name="respcontent2">Dr.Sanghvi\'s more than two decades of rich experience in treating respiratory disorders in newborn, infants, children and young-adults (teens) all over the world, has won the praise of many happy and satisfied parents.</string>
+    <string name="resphead">How the treatment works and its duration</string>
+
+    <string name="resplist1"><ul> <li><i>During an attack of cold, cough or fever, in most cases strong drugs can be avoided and relief is usually quick.</i></li></ul></string>
+    <string name="resplist2"><ul> <li><i>A good quality embryo.</i></li></ul></string>
+    <string name="resplist3"><ul> <li><i>A good quality embryo.</i></li></ul></string>
+
+    <string name="resphead1">Diseases Treated</string>
+    <string name="respcontent3">Tendencies to all types of upper and lower respiratory infections like, Colds, Coughs, Allergies, Asthma, Bronchitis, Primary Complex, Tonsillitis, Sinusitis, Rhinitis etc. can become overcome by our highly specialized form of treatment offered that works at the Constitutional-levels and hence rids the disease from its deepest levels, even if genetic or hereditary.. This is the power of Homeopathy coupled with our vast experience.
+    </string>
+    <string name="title_activity_main_activity25">Children</string>
+
+
+    <string name="behavecontent">This program covers a host of conditions like Ill temper, Obstinacy, Fright, Anxiety and Nervousness, Pessimism, Egoism, Dyslexia, ADHD [attention deficit hyperactivity disorder], Autism, Down\'s syndrome, Mongolism, Mental retardation etc.
+</string>
+    <string name="behavelist1"><ul> <li><i>Our very special and exclusive course of natural and gentle medication brings-on the most positive, calming and encouraging changes in their, anger, aggressiveness, hyperactivity etc, while improving their memory, understanding and their mental and physical skills.</i></li></ul></string>
+    <string name="behavelist2"><ul> <li><i>Homeopathic medicines, in a most natural manner, works on rejuvenating the weak areas of the human brain, resulting in improving the overall performance of the child in every field. What could take months and years of efforts from parents and sp. educators to train the child is often achieved in a much shorter time with Homeopathy. A detailed and thorough case analysis and a proper follow up for a period of 1-2 yrs. get the best out of Homeopathy.</i></li></ul></string>
+
+
+    <string name="hhead">Address</string>
+    <string name="haddress">20/1, 1st Street, Wallace Garden
+Chennai - 600 006</string>
+
+    <string name="hhead1">Email</string>
+    <string name="email">info@natureclinic.co.in</string>
+    <string name="hhead2">Phone</string>
+    <string name="pnumber">04442602020  04442602121  04442602323</string>
+    <string name="title_activity_main_activity26">Homeo</string>
+
+
+    <string name="abtcontent">In practice this means that a drug which is capable of producing a certain set of symptoms in a healthy body when taken in large physiological doses, will relieve or cure a similar set of symptoms in the diseased organism when it is given in small homeopathic doses.
+</string>
+
+    <string name="abtcontent1">One common example of the Law of Similars in action is the use of Allium cepa, or Onion, in homeopathic potency, to treat certain kinds of Head Colds. When someone has a cold characterized by red, burning, running eyes, the administration of Allium cepa, which will cause those same symptoms in a person without a cold, can help the body throw off or move beyond the illness i.e cold.
+</string>
+
+    <string name="abtcontent2">Since this law finds its roots in Nature, it is also called as “The Nature’s Law of Cure”. Thus it enhances and speeds up the process of recovery. This is achieved because it strengthens the body’s own defense-mechanism and build up the body’s immunity but also maintains a state of harmony between the mind, body and soul!
+</string>
+
+    <string name="abtcontent3">It also has the advantage of being devoid of any reaction or adverse effects, isn\’t habit forming and is absolutely safe when given with any system of medicine.
+</string>
+888888
+</resources>

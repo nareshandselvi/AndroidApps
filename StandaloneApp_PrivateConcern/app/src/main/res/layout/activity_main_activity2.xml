@@ -1,0 +1,240 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+<RelativeLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.windows_home.nature.MainActivity2Activity">
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:stretchColumns="1" >
+        <TableRow>
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MEMORY ENHANCEMENT THERAPY"
+            android:gravity="center"
+            android:textStyle="bold|italic"
+            android:textColor="#FFFF0000"
+            android:textSize="15sp"
+            android:lines="2"
+            />
+        </TableRow>
+    <TableRow>
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/me1"
+        android:layout_margin="10dp"
+        android:cropToPadding="false" />
+    </TableRow>
+
+        <TableRow>
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/memoryHead"
+            android:textStyle="bold|italic"
+            android:textColor="#FF008000"
+            android:textSize="16sp"
+            android:lines="2"
+                        />
+    </TableRow>
+    <TableRow>
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/memorycontent"
+        android:lines="11"
+        />
+    </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memorycontent1"
+                android:lines="11"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memoryhead1"
+                android:textStyle="bold|italic"
+                android:textColor="#FF008000"
+                android:textSize="15sp"
+                android:lines="2"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memorylis"
+                android:lines="4"
+                 />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memorylist"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memorylist1"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memorylist2"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memorylist3"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memorylist4"
+                android:lines="3"
+                />
+        </TableRow>
+        <TableRow>
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/treatimage1"
+                android:layout_margin="10dp"
+                android:cropToPadding="false" />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memoryhead2"
+                android:textStyle="bold|italic"
+                android:textColor="#FF008000"
+                android:textSize="15sp"
+                android:lines="2"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memorycontent3"
+                android:lines="9"
+
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memoryhead3"
+                android:textStyle="bold|italic"
+                android:textColor="#FF008000"
+                android:textSize="15sp"
+                android:lines="2"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memorycontent4"
+                android:lines="11"
+
+                />
+        </TableRow>
+        <TableRow>
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/memoryhead4"
+            android:textStyle="bold|italic"
+            android:textColor="#FF008000"
+            android:textSize="15sp"
+            android:lines="1"
+            /></TableRow>
+        <TableRow>
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/m1"
+                android:layout_margin="-25dp"
+                android:cropToPadding="false" />
+        </TableRow>
+
+
+
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memorycontent5"
+                android:lines="13"
+
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memoryhead5"
+                android:textStyle="bold|italic"
+                android:textColor="#FF008000"
+                android:textSize="15sp"
+                android:lines="2"
+                /></TableRow>
+        <TableRow>
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/letter"
+                android:layout_margin="-25dp"
+                android:cropToPadding="false" />
+        </TableRow>
+
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memorycontent6"
+                android:textStyle="bold|italic"
+                android:lines="11"
+
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memorycontents"
+                android:textStyle="bold|italic"
+                android:lines="2"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memorycontent7"
+                android:textStyle="bold|italic"
+                android:lines="4"
+
+                />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/memorycontents1"
+                android:textStyle="bold|italic"
+
+                />
+        </TableRow>
+    </TableLayout>
+</RelativeLayout>
+</ScrollView>
